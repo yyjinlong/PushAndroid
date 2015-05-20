@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jinlong/study/AndroidPushNotificationsDemo-master/libs/wmqtt.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc86f8fb0a55738adc56d1a3320d39a5b71fb04c">
+        <dex dex="/home/jinlong/study/AndroidPushNotificationsDemo-master/build/intermediates/pre-dexed/debug/wmqtt-510ec8bc8c8c52d7269d3720be3e6fa3bca3d34a.jar" />
+    </item>
+
+</items>
