@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/home/jinlong/study/AndroidPushNotificationsDemo-master/libs/wmqtt.jar"
+        jar="/home/jinlong/AndroidStudioProjects/PushNotification/libs/wmqtt.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="fc86f8fb0a55738adc56d1a3320d39a5b71fb04c">
-        <dex dex="/home/jinlong/study/AndroidPushNotificationsDemo-master/build/intermediates/pre-dexed/debug/wmqtt-510ec8bc8c8c52d7269d3720be3e6fa3bca3d34a.jar" />
+        <dex dex="/home/jinlong/AndroidStudioProjects/PushNotification/build/intermediates/pre-dexed/debug/wmqtt-79efdc6322a3ba024919cfa1b90822e295c77671.jar" />
     </item>
 
 </items>
