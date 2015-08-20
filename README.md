@@ -47,4 +47,4 @@ Push Notifications Demo for Android
 # 仓库改名
 
     # update the remote url in your local repository :
-    $ git remote set-url origin git@github.com/yyjinlong/PushAndroid.git
+    $ git remote set-url origin https://github.com/yyjinlong/PushAndroid.git
